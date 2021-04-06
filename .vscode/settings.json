@@ -6,6 +6,6 @@
     // Configuração do Code Runner e ambiente pronto para rodar scripts Node
     "code-runner.executorMap": {
         // Include e Exlude no tsconfig.json
-        "typescript": " clear && npx ts-node --files --transpile-only",
+        "typescript": "npx ts-node --files --transpile-only",
     }
 }
